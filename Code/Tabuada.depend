@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672783558 source:c:\users\tiago\documents\logica de programaçao\c\calculadora de média\tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1672852657 source:c:\users\tiago\documents\logica de programacao\c\repositório\tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1672865896 source:c:\users\tiago\documents\logica de programacao\c\while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
